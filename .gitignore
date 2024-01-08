@@ -1,1 +1,4 @@
 /nodemodules
+
+#Hide Secret keys
+/.env
